@@ -9,4 +9,9 @@ Data Science Interest Group (Panther Hackers)
 
 03/20/2017 [Start with Google's scikit-learn tutorials](https://www.youtube.com/watch?v=cKxRvEZd3Mw) 
 
+04/05/2017 We analyzed the member dataset of Panther Hackers and discussed some appropriate tools for modeling.
 
+04/12/2017 We wrapped up the last meeting with two projects in demonstration
+
+* [I see the light](https://github.com/Mehfistoe/ISeeTheLight)
+* [Credit Card Fraud Detection](https://github.com/snghiem/creditcardfraud)
